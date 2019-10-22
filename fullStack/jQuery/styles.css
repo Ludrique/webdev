@@ -1,0 +1,11 @@
+/* body {
+  background-color: green;
+} */
+.title {
+  color: green;
+  font-family: fantasy;
+  font-size: 4rem;
+}
+ul li {
+  list-style: none;
+}
